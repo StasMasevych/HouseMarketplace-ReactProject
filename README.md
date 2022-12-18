@@ -9,7 +9,7 @@
 ### Main tech stack and tools:
 - React Router
 - React (useState, useEffect, useRef, custom hooks, conditional rendering)
-- Firebase (authentication - signup/login/logout, firestore database and add/update/delete data, fetching firestore collection and documents, real-time collection and documents data, storage for uploading and storing images, firestore rules)
+- Firebase (authentication - signup/login/logout, firestore database and add/update/delete data, fetching collection and documents from firestore, real-time collection and documents data, storage for uploading and storing images, firestore rules)
 - Google Auth
 - Google Cloud Platform (Geolocation API)
 - React-Leaflet (maps)
